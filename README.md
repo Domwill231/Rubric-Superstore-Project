@@ -5,3 +5,5 @@ beneficial and which customers had the highest return rate. By comparing profits
 able to not only find what region was profitabl, but also what items were causing the company to take a loss.
 By discontinuing those items or finding another wholesaler to purchase quality items from, we may be ale 
 to turn a profit on those items.
+
+https://public.tableau.com/views/SprintProject2_17307411677360/Part3_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
