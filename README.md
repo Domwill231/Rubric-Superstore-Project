@@ -6,4 +6,6 @@ able to not only find what region was profitabl, but also what items were causin
 By discontinuing those items or finding another wholesaler to purchase quality items from, we may be ale 
 to turn a profit on those items.
 
+The project is the link below.
+
 https://public.tableau.com/views/SprintProject2_17307411677360/Part3_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
